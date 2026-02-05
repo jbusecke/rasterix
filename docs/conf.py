@@ -122,6 +122,7 @@ html_theme_options = dict(
     top_of_page_buttons=["view"],
     source_repository="https://github.com/xarray-contrib/rasterix",
     source_branch="main",
+    source_directory="",
 )
 
 html_context = {
